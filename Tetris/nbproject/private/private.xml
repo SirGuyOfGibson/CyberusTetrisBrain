@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/tetris/TetrisController.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/AIHelper/HeightMinMax.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/tetris/AI.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/AIHelper/BlocksAboveHoles.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/tetris/ITLPAI.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/tetris/Piece.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/AIHelper/BoardRater.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/AIHelper/HeightStdDev.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/tetris/Move.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/AIHelper/ThreeVariance.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/tetris/RunTetrisAI.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/AIHelper/HeightAvg.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/AIHelper/RowsWithHolesInMostHoledColumn.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/AIHelper/AverageSquaredTroughHeight.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/tetris/PiecePanel.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/AIHelper/FinalRater.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/AIHelper/HeightMax.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/AIHelper/SimpleHoles.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/AIHelper/ConsecHorzHoles.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/tetris/Board.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/AIHelper/WeightedHoles.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/tetris/DisplayBoard.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/AIHelper/HeightVar.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/AIHelper/Through.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/tetris/RunTetris.java</file>
+            <file>file:/Users/justinbehymer/NetBeansProjects/Tetris/src/tetris/DisplayPiece.java</file>
+        </group>
+    </open-files>
+</project-private>
